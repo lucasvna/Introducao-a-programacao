@@ -17,3 +17,4 @@ for i in list:
 
 print(f'The sum result is {sum_result}')
 print(list)
+print('TEST GIT FETCH')
